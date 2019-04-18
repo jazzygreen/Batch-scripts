@@ -1,0 +1,1 @@
+ffmpeg.exe -i "%~1" -q:v 6 "%~n1.wmv"
