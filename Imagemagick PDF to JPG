@@ -1,0 +1,1 @@
+convert.exe -density 300 -background white -alpha remove "%~1" -deskew 40%% "%~n1.jpg"
